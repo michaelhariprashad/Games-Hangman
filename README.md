@@ -1,2 +1,2 @@
 # Games-Hangman
-Just a hangman game
+Traditional hangman game written in python. 
